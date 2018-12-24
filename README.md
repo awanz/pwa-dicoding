@@ -1,2 +1,3 @@
-# pwa-dicoding
-Latihan Belajar PWA dari DIcoding
+# Belajar PWA dari Dicoding (Codepolitan)
+
+
